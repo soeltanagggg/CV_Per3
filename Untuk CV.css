@@ -1,0 +1,64 @@
+/*untuk CV*/
+
+    body{
+        background-image: url(Satu.jpg);
+        background-repeat: repeat-x;
+        background-position: center;
+        background-size:cover;
+        
+    }
+
+    h2{
+        text-align: center;
+    }
+
+    ul.one{
+        width: 250px;
+        border: 15px solid rgb(8, 8, 8);
+        padding:50px;
+        margin: 20px;
+        border-radius: 50px;
+    }
+
+    ul.two{
+        width: 250px;
+        border: 15px solid rgb(8, 8, 8);
+        padding:50px;
+        margin: 20px;
+        border-radius: 50px;
+    }
+
+    ul.three{
+        width: 250px;
+        border: 15px solid rgb(8, 8, 8);
+        padding:50px;
+        margin: 20px;
+        border-radius: 50px;
+    }
+
+    ul.four{
+        width: 250px;
+        border: 15px solid rgb(8, 8, 8);
+        padding:50px;
+        margin: 20px;
+        border-radius: 50px;
+    }
+
+    ul.five{
+        width: 250px;
+        border: 15px solid rgb(8, 8, 8);
+        padding:50px;
+        margin: 20px;
+        border-radius: 50px;
+    }
+
+    .div1{
+        padding-left: 10px;
+        text-align: justify;
+        font-size: 20px;
+    }
+  
+
+
+
+    
